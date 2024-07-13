@@ -24,10 +24,17 @@
 
 - [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://product.kyobobook.co.kr/detail/S000001628116) - 김종민
 - [객체지향의 사실과 오해](https://product.kyobobook.co.kr/detail/S000001628109) - 조영호
+- [오브젝트](https://product.kyobobook.co.kr/detail/S000001766367) - 조영호
 
 ## 읽고 있는 책
 
-- [오브젝트](https://product.kyobobook.co.kr/detail/S000001766367) - 조영호
+- [컴퓨터 밑바닥의 비밀](https://product.kyobobook.co.kr/detail/S000212650856?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIMeLu65GK16tXfxwVRJWetwnQjpyFcKGiI7z2T6SBrsGkZtKOKCIxRoCP3IQAvD_BwE) -
+  루 샤오펑
 
 ## 읽을 예정인 책
+
+- [Real MySql 8.0 1권, 2권](https://product.kyobobook.co.kr/detail/S000001766482) -
+  백은빈, 이성욱
+- [이펙티브 자바 3판](https://product.kyobobook.co.kr/detail/S000001033066) -
+  조슈아 블로크
 
