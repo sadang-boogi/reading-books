@@ -28,11 +28,13 @@
 
 ## 읽고 있는 책
 
-- [컴퓨터 밑바닥의 비밀](https://product.kyobobook.co.kr/detail/S000212650856?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIMeLu65GK16tXfxwVRJWetwnQjpyFcKGiI7z2T6SBrsGkZtKOKCIxRoCP3IQAvD_BwE) -
-  루 샤오펑
+- [AWS 교과서](https://product.kyobobook.co.kr/detail/S000210532528?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQuYcsqapZIcVzJ3omayR16B_vXouBrF4_DLvPSLEUpWFGZdzLUs1HEaAiD_EALw_wcB) -
+  김원일
 
 ## 읽을 예정인 책
 
+- [컴퓨터 밑바닥의 비밀](https://product.kyobobook.co.kr/detail/S000212650856?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIMeLu65GK16tXfxwVRJWetwnQjpyFcKGiI7z2T6SBrsGkZtKOKCIxRoCP3IQAvD_BwE) -
+  루 샤오펑
 - [Real MySql 8.0 1권, 2권](https://product.kyobobook.co.kr/detail/S000001766482) -
   백은빈, 이성욱
 - [이펙티브 자바 3판](https://product.kyobobook.co.kr/detail/S000001033066) -
